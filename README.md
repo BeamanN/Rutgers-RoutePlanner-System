@@ -1,5 +1,11 @@
-Project Problem #6 - Rutgers RoutePlanner System: \
-You've been asked to help the Rutgers Department of Transportation
-(DoT) to design a student bus route management system. The DoT wants a system
-that meets certain performance criteria, e.g., frequency, cost, the maximum time to destination etc. You will need to make sensible necessary assumptions of the budget, the time between campuses, frequency etc., but no student should have to wait more than 30 minutes to get to a class on any campus from any point on the New Brunswic campus. 
+# Rutgers Route Planner System
 
+Welcome to the **Rutgers Route Planner System** repository! This project is designed to help students, faculty, and visitors navigate the Rutgers University campuses efficiently by providing optimized routes between locations. Whether you're trying to find the quickest path to your next class, the nearest dining hall, or a specific building, this system has you covered.
+
+## Features
+
+- **Interactive Map**: Visualize the Rutgers campuses with key locations marked.
+- **Route Optimization**: Find the shortest or most efficient route between two points.
+- **Multi-Stop Planning**: Plan routes with multiple stops for errands or meetings.
+- **Customizable Preferences**: Choose between walking, biking, or shuttle routes.
+- **Real-Time Updates**: Get real-time information on shuttle schedules and traffic conditions.
